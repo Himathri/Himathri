@@ -83,14 +83,6 @@ I enjoy learning new technologies, building applications, exploring creative too
 
 ---
 
-## 📊 GitHub Stats
-
-![Himathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himathri\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himathri\&layout=compact\&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning, collaborating, and connecting with people in the software development community.
